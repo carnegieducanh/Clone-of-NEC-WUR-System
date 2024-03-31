@@ -1,7 +1,7 @@
 const listAccount = [
     {
         username: "LW2200033",
-        password: "ilovepj",
+        password: "43214321",
     },
 ];
 let isLogin = !!localStorage.getItem("token");
